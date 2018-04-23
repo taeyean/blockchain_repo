@@ -6,3 +6,7 @@ require "sinatra/reloader"
 get '/' do
    "block!!"
 end
+
+get '/hello' do
+   "block!!"
+end
