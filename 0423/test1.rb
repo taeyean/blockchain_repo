@@ -21,3 +21,8 @@ get '/refresh' do
   '<h1 align="center">you have to take a rest!!</h1>
   <p align="center"> by taeyean </p>'
 end
+
+get '/thesis' do
+  '<h1 align="center">huh huh huh huh !!</h1>
+  <p align="center"> by taeyean </p>'
+end
